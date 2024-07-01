@@ -10,3 +10,4 @@ Monthly compilation of interesting materials from Kotlin and Android world.
 - [April 2024](./events/2024-04.md)
 - [May 2024](./events/2024-05.md)
 - [June 2024](./events/2024-06.md)
+- [July 2024](./events/2024-07.md)
