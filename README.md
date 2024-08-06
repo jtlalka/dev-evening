@@ -1,6 +1,6 @@
 ## Android Evening 🍿
 
-Monthly compilation of interesting materials from Kotlin and Android world.
+Monthly compilation of interesting short materials from Kotlin and Android world.
 
 ### Events 📽️
 
@@ -11,3 +11,4 @@ Monthly compilation of interesting materials from Kotlin and Android world.
 - [May 2024](./events/2024-05.md)
 - [June 2024](./events/2024-06.md)
 - [July 2024](./events/2024-07.md)
+- [August 2024](./events/2024-08.md)
