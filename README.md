@@ -4,6 +4,10 @@ Monthly compilation of interesting short materials from Kotlin and Android world
 
 ### Events 📽️
 
+#### 2025
+- [January 2025](./events/2025-01.md)
+
+#### 2024
 - [January 2024](./events/2024-01.md)
 - [February 2024](./events/2024-02.md)
 - [March 2024](./events/2024-03.md)
