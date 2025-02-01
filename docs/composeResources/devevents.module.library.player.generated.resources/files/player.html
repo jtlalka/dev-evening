@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Player</title>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+    <meta name="description" content="Events Player"/>
+    <meta name="keywords" content="events, player"/>
+    <meta name="author" content="Jakub Tlałka"/>
+
+    <style>
+        html, body, iframe {border: 0; margin: 0; padding: 0;}
+
+        header {
+            position: fixed;
+            top: 0;
+            left: 0;
+            right: 0;
+
+            background-color: #111A;
+            font: normal 16px/24px Verdana, Geneva, sans-serif;
+            text-align: center;
+        }
+        header a {
+            display: inline-block;
+            background-color: #111;
+            color: #eee;
+            padding: 4px;
+            margin: 4px;
+        }
+    </style>
+</head>
+<body>
+
+<iframe id="player" src="https://www.youtube.com/embed/{PLAYER_VIDEO_ID}?enablejsapi=1"></iframe>
+
+<header id="debug">
+    <a id="debug-play" onclick="playerPlay(0)">Play</a>
+    <a id="debug-pause" onclick="playerPause()">Pause</a>
+    <a id="debug-moveTo" onclick="playerMove(60)">Move</a>
+    <a id="debug-mute" onclick="playerVolume(0)">Mute</a>
+    <a id="debug-stop" onclick="playerStop()">Stop</a>
+    <a id="debug-close" onclick="debugMode(false)">[X]</a>
+</header>
+
+<script type="text/javascript">
+    var iframe = document.getElementById('player');
+    iframe.width = window.innerWidth;
+    iframe.height = window.innerHeight;
+</script>
+
+<script type="text/javascript">
+    var tag = document.createElement('script');
+    tag.id = 'iframe-script';
+    tag.src = 'https://www.youtube.com/iframe_api';
+
+    var firstScriptTag = document.getElementsByTagName('script')[0];
+    firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+
+    var player;
+
+    function onYouTubeIframeAPIReady() {
+        player = new YT.Player('player', {
+            events: {
+                'onReady': onPlayerReady,
+                'onError': onPlayerError
+            }
+        });
+    }
+
+    function onPlayerReady(event) {
+        if (MobileApp) {
+            MobileApp.onReady(event.target.getPlayerState())
+        }
+    }
+
+    function onPlayerError(event) {
+        if (MobileApp) {
+            MobileApp.onError(event)
+        }
+    }
+
+    function playerPlay(seconds) {
+        player.seekTo(seconds);
+        player.playVideo();
+    }
+
+    function playerMove(seconds) {
+        player.seekTo(seconds);
+    }
+
+    function playerPause() {
+        player.pauseVideo();
+        return player.getCurrentTime();
+    }
+
+    function playerStop() {
+        player.stopVideo();
+    }
+
+    function playerVolume(volume) {
+        player.setVolume(volume);
+    }
+
+    function debugMode(isDebug) {
+        if (isDebug) {
+            document.getElementById('debug').style.display = 'block';
+        } else {
+            document.getElementById('debug').style.display = 'none';
+        }
+    }
+</script>
+
+</body>
+</html>

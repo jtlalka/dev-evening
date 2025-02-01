@@ -3,10 +3,27 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>DevEvents2</title>
-    <link type="text/css" rel="stylesheet" href="styles.css">
-    <script type="application/javascript" src="composeApp.js"></script>
+    <title>DevEvents</title>
+
+    <meta name="description" content="Events Player"/>
+    <meta name="keywords" content="events, player"/>
+    <meta name="author" content="Jakub Tlałka"/>
+
+    <link rel="stylesheet" type="text/css" href="styles/styles.css">
+    <link rel="icon" type="image/svg" href="images/favicon.svg">
+
+    <script type="application/javascript" src="app.js"></script>
+    <script type="application/javascript" src="scripts/player.js"></script>
 </head>
 <body>
+
+<div id="player-component">
+    <div id="player"></div>
+</div>
+
+<script type="application/javascript">
+    initPlayer()
+</script>
+
 </body>
 </html>
