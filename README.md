@@ -9,6 +9,7 @@ Event page: [Dev Events (alpha in KMP)](https://jtlalka.github.io/dev-evening/)
 #### 2025
 - [January 2025](./events/2025-01.md)
 - [February 2025](./events/2025-02.md)
+- [March 2025](./events/2025-03.md)
 
 #### 2024
 - [January 2024](./events/2024-01.md)
