@@ -19,14 +19,27 @@ https://www.youtube.com/watch?v=MSeI7XVzrvo
 
 ### 2025-04 (not included)
 
-[News] Android Development Moves Internal: What You NEED To Know - 7 min \
+[News] Android Development Moves Internal: What You NEED To Know ~ 7 min \
 https://www.youtube.com/watch?v=raCeb0gMLcU
 
-[Architecture] Single State Fields VS. State Data Class In Your ViewModel - What's Best? - 15 min \
+[Architecture] Single State Fields VS. State Data Class In Your ViewModel ~ What's Best? ~ 15 min \
 https://www.youtube.com/watch?v=ZTebNp-FyYY
 
-[Architecture] How to Refactor Legacy Android Code With a Clear Step-By-Step Approach - 47 min \
+[Architecture] How to Refactor Legacy Android Code With a Clear Step-By-Step Approach ~ 47 min \
 https://www.youtube.com/watch?v=WhlpElaeYHE
 
-[Tools] Building MCP with Kotlin: Claude Desktop Controls My Smart Home Lights! - 22 min \
+[Tools] Building MCP with Kotlin: Claude Desktop Controls My Smart Home Lights! ~ 22 min \
 https://www.youtube.com/watch?v=jwevCa96Z4Q
+
+
+### 2025-05 (not included)
+
+[Soft] Freelancing as Mobile Dev vs. Full-time Job - Which Path Is Best For YOU? ~ 13 min \
+https://www.youtube.com/watch?v=ESyopfDqQKk
+
+[Refactor] How to Refactor Legacy Android Code With a Clear Step-By-Step Approach ~ 47 min \
+https://www.youtube.com/watch?v=WhlpElaeYHE
+
+[Test] Full Guide to Testing APIs on Android & KMP With Ktor MockEngine ~ 34 min
+https://www.youtube.com/watch?v=mKwPoGvkjSw
+
