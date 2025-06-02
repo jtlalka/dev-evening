@@ -43,3 +43,8 @@ https://www.youtube.com/watch?v=WhlpElaeYHE
 [Test] Full Guide to Testing APIs on Android & KMP With Ktor MockEngine ~ 34 min
 https://www.youtube.com/watch?v=mKwPoGvkjSw
 
+### 2025-06 (not included)
+
+[News] Now in Android: 116 – Google I/O, Gemini, and Jetpack Compose 1.8 ~ 4 min \
+https://www.youtube.com/watch?v=YOvD5nQe7Bk
+
