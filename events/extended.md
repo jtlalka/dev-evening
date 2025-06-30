@@ -37,14 +37,16 @@ https://www.youtube.com/watch?v=jwevCa96Z4Q
 [Soft] Freelancing as Mobile Dev vs. Full-time Job - Which Path Is Best For YOU? ~ 13 min \
 https://www.youtube.com/watch?v=ESyopfDqQKk
 
-[Refactor] How to Refactor Legacy Android Code With a Clear Step-By-Step Approach ~ 47 min \
-https://www.youtube.com/watch?v=WhlpElaeYHE
-
 [Test] Full Guide to Testing APIs on Android & KMP With Ktor MockEngine ~ 34 min
 https://www.youtube.com/watch?v=mKwPoGvkjSw
 
-### 2025-06 (not included)
+### 2025-07 (not included)
 
-[News] Now in Android: 116 – Google I/O, Gemini, and Jetpack Compose 1.8 ~ 4 min \
-https://www.youtube.com/watch?v=YOvD5nQe7Bk
+[Compose] The Full Jetpack Compose Responsive UI Crash Course ~ 51 min \
+https://www.youtube.com/watch?v=jU_BAQI4DiM
 
+[Navigation] Beginner's Crash Course to the New Navigation 3 Library (Android & KMP) ~ 51 min \
+https://www.youtube.com/watch?v=jhrfx8Uk_y0
+
+[Navigation] Let's try implementing Nested Navigation with the New Navigation 3 Library ~ 26 min \
+https://www.youtube.com/watch?v=jrM0yv4CFwY
