@@ -50,3 +50,8 @@ https://www.youtube.com/watch?v=jhrfx8Uk_y0
 
 [Navigation] Let's try implementing Nested Navigation with the New Navigation 3 Library ~ 26 min \
 https://www.youtube.com/watch?v=jrM0yv4CFwY
+
+### 2025-08 (not included)
+
+[Android] Enrich your app with live updates and widgets ~ 14 min \
+https://www.youtube.com/watch?v=_Akf_u08p7U&ab_channel=AndroidDevelopers
