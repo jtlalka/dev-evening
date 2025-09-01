@@ -55,3 +55,8 @@ https://www.youtube.com/watch?v=jrM0yv4CFwY
 
 [Android] Enrich your app with live updates and widgets ~ 14 min \
 https://www.youtube.com/watch?v=_Akf_u08p7U&ab_channel=AndroidDevelopers
+
+### 2025-09 (not included)
+
+[KMP] How to Deep Link Into iOS & Android With Compose Multiplatform ~ 27 min \
+https://www.youtube.com/watch?v=9XMN2neHyOw&ab_channel=PhilippLackner
