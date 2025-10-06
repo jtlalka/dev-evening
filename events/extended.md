@@ -60,3 +60,9 @@ https://www.youtube.com/watch?v=_Akf_u08p7U&ab_channel=AndroidDevelopers
 
 [KMP] How to Deep Link Into iOS & Android With Compose Multiplatform ~ 27 min \
 https://www.youtube.com/watch?v=9XMN2neHyOw&ab_channel=PhilippLackner
+
+### 2025-10 (not included)
+
+[Compose] Avoid this App Crash Issue in a Production! ~ 5 min \
+https://www.youtube.com/watch?v=zNT6thZzJJM \
+(Stevdza-San)
