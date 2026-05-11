@@ -7,6 +7,7 @@ Monthly compilation of interesting short materials from Kotlin and Android world
 - [February 2026](./events/2026-02.md)
 - [March 2026](./events/2026-03.md)
 - [April 2026](./events/2026-04.md)
+- [May 2026](./events/2026-05.md)
 
 #### 2025
 - [January 2025](./events/2025-01.md)
